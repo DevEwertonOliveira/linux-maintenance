@@ -1,4 +1,4 @@
-<h1>Script feito com o intuito de ajudar a comunidade a fazer manutenção básica no sistema</h1>
+<h1>Script simples feito com o intuito de ajudar a comunidade a fazer manutenção básica no sistema</h1>
 
 <hr>
 
