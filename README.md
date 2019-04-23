@@ -1,4 +1,5 @@
 <h1>Script simples feito com o intuito de ajudar a comunidade a fazer manutenção básica no sistema</h1>
+<h4>Apenas para distribuições com suporte apt-get, em breve irei disponibilizar para distros para fedora e arch</h4>
 
 <hr>
 
