@@ -6,6 +6,7 @@
 <h2>Possui três opções</h2>
 <p>1- atualizações do repositório baseado em debian e ubuntu</p>
 <p>2- Limpeza de pacotes e do cache com apt-get autoremove e apt-get autoclean</p>
+<h2>Cuidado com o comando autoremove, somente em alguns casos poderá utiliza-lo</h2>
 <p>3 -Limpeza da lixeira</p>
 
 <hr>
