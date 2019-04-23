@@ -11,4 +11,5 @@
 <hr>
 <h2>Instruções</h2>
 <p>Assim que baixar o script repair.sh, rode sudo chmod +x repair.sh e depois execute o script</p>
-<p>Lembrando que precisará digitar a senha caso escolha a opção 1
+<p>Lembrando que precisará digitar a senha nas opções 1 e 2</p>
+<hr>
