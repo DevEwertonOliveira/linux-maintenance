@@ -5,6 +5,7 @@ main()
     echo "1 - Buscar e atualizar repositórios"
     echo "2 - Limpar pacotes não usados com autoremove e autoclean"
     echo "3 - Esvaziar a lixeira"
+    echo "4 - Instalar Aptitude para Debian"
     read opcao;
     case $opcao in
     "1")
@@ -15,6 +16,9 @@ main()
     ;;
     "3")
     esvaziar_lixeira
+    ;;
+    "4")
+    instalar_aptitude
     ;;
     esac
 }
@@ -41,5 +45,9 @@ esvaziar_lixeira()
   rm -rf "$file"
   done
   echo "Feito!"
+}
+instalar_aptitude()
+{
+    sudo apt-get install aptitude -y
 }
 main
