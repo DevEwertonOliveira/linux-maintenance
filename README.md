@@ -8,7 +8,7 @@
   <li>Atualizações do repositório baseado em debian e ubuntu</li>
   <li>Limpeza de pacotes e do cache com apt-get autoremove e apt-get autoclean</li>
   <li>Limpeza da lixeira</li>
-  <li>Instalador aptitude</li>
+  <li>Instalar aptitude</li>
 </ol>
 <hr>
 <h2>Instruções</h2>
