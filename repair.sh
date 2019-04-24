@@ -49,5 +49,6 @@ esvaziar_lixeira()
 instalar_aptitude()
 {
     sudo apt-get install aptitude -y
+    echo "Feito!"
 }
 main
