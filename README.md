@@ -1,7 +1,7 @@
 <h1>Script simples feito com o intuito de ajudar a comunidade a fazer manutenção básica no sistema</h1>
 <h4>Apenas para distribuições com suporte apt-get, em breve irei disponibilizar para distros para fedora e arch</h4>
 <hr>
-<h2>Cuidado com o comando autoremove, somente em alguns casos poderá utiliza-lo</h2>
+<h2>Adicionado aptitude para distros que possuem meta pacotes</h2>
 <hr>
 <h2>Possui três opções</h2>
 <p>1- atualizações do repositório baseado em debian e ubuntu</p>
