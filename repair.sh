@@ -27,6 +27,7 @@ atualizar_repositorios()
 limpar_pacotes()
 {
     echo "Limpando pacotes..."
+    sudo aptitude keep-all
     sudo apt-get autoclean && sudo apt-get autoremove
     echo "Feito"
 }
