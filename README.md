@@ -4,11 +4,11 @@
 <h2>Adicionado aptitude para distros que possuem meta pacotes</h2>
 <hr>
 <h2>Possui três opções</h2>
-<p>1- atualizações do repositório baseado em debian e ubuntu</p>
-<p>2- Limpeza de pacotes e do cache com apt-get autoremove e apt-get autoclean</p>
-
-<p>3 -Limpeza da lixeira</p>
-
+<ol>
+<li>Atualizações do repositório baseado em debian e ubuntu</li>
+<li>Limpeza de pacotes e do cache com apt-get autoremove e apt-get autoclean</li>
+<li>3 -Limpeza da lixeira</li>
+</ol>
 <hr>
 <h2>Instruções</h2>
 <p>Assim que baixar o script repair.sh, rode sudo chmod +x repair.sh e depois execute o script</p>
