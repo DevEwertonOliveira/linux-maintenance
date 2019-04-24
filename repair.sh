@@ -5,7 +5,7 @@ main()
     echo "1 - Buscar e atualizar repositórios"
     echo "2 - Limpar pacotes não usados com autoremove e autoclean"
     echo "3 - Esvaziar a lixeira"
-    echo "4 - Instalar Aptitude para Debian"
+    echo "4 - Instalar Aptitude"
     read opcao;
     case $opcao in
     "1")
