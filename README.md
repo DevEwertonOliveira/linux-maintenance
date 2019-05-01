@@ -18,6 +18,7 @@
 
 <p>Adicionado arquivo repair para termux</p>
 <code>chmod +x repair-termux.sh</code>
-<br><p>Caso não tenha o git</p>
+<hr>
+<p>Caso não tenha o git</p>
 <code>apt-get install git</code>
 <hr>
