@@ -15,3 +15,8 @@
 <p>Assim que baixar o script repair.sh, rode sudo chmod +x repair.sh e depois execute o script</p>
 <p>Lembrando que precisará digitar a senha nas opções 1 e 2</p>
 <hr>
+
+<p>Adicionado arquivo repair para termux</p>
+<p>Caso não tenha o git</p>
+<code>apt-get install git</code>
+<hr>
