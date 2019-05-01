@@ -12,11 +12,12 @@
 </ol>
 <hr>
 <h2>Instruções</h2>
-<p>Assim que baixar o script repair.sh, rode sudo chmod +x repair.sh e depois execute o script</p>
+<p>Assim que baixar o script repair.sh, rode <code>sudo chmod +x repair.sh </code> e depois execute o script</p>
 <p>Lembrando que precisará digitar a senha nas opções 1 e 2</p>
 <hr>
 
 <p>Adicionado arquivo repair para termux</p>
+<code>chmod +x repair-termux.sh</code>
 <p>Caso não tenha o git</p>
 <code>apt-get install git</code>
 <hr>
